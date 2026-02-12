@@ -66,7 +66,7 @@ repos:
           flake8-builtins,
           flake8-rst-docstrings,
           # flake8-logging-format,
-          setuptools,
+          # setuptools,
         ]
         args: [
           # default black line length is 88
